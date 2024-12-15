@@ -5,6 +5,8 @@ A machine learning-based solution for anomaly detection in industrial parameters
 
 ---
 
+## <a id='someLabel' href="https://colab.research.google.com/drive/1fHMh8DUUzaxumXCuQ25nDwEL1K5uik5N?usp=sharing">Colab Link</a> 
+
 ## Features
 
 - **Inputs**: 
